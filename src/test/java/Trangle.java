@@ -1,4 +1,4 @@
-public class Triangle {
+public class Trangle {
 	public static void main (String [] args) {
 	
 		System.out.println ("    *");
