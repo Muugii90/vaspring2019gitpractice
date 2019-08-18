@@ -14,7 +14,9 @@ public class LoginTest {
 
         System.out.println("This line coming from develop branch");
         System.out.println("This line coming from develop branch");
-        System.out.println("This line coming from develop branch");
+
+        System.out.println("args = " + args);
+
 
     }
 }
