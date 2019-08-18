@@ -5,11 +5,8 @@ public class LoginTest {
 
         System.out.println("Line 11");
 
-        System.out.println("Line 211");
+        System.out.println("Good Morning Sunday");
        
-        System.out.println("Line 211");
-        System.out.println("Line 211");
-        System.out.println("Line 211");
 
     }
 }
