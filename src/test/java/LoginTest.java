@@ -1,15 +1,10 @@
 public class LoginTest {
 
     public static void main(String[] args) {
-
-
-        System.out.println("Line 11");
-
-        System.out.println("Line 411");
-       
-        System.out.println("Line 211");
-        System.out.println("Line 211");
-        System.out.println("Line 411");
-
+        System.out.println("Line 12");
+        System.out.println("Line moogi");
+        System.out.println("150k");
+        System.out.println("resume done");
+        System.out.println("wwwww");
     }
 }
